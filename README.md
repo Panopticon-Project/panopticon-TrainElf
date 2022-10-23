@@ -7,3 +7,5 @@ https://journals.sagepub.com/doi/10.1177/14773708221077615?utm_source=substack&u
 https://research.checkpoint.com/2020/gozi-the-malware-with-a-thousand-faces/
 
 https://medium.com/@DCSO_CyTec/attack-chain-d%C3%A9j%C3%A0-vu-the-infection-vector-used-by-svcready-gozi-and-icedid-585bb326a666 - check
+
+https://www.mandiant.com/resources/blog/rm3-ldr4-ursnif-banking-fraud - check
